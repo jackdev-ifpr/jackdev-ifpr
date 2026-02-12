@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true"  />
 
 ###
 
