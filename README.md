@@ -2,9 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true"  />
+<img align="right" width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true"  />
 
 ###
+
+<h3>Knowledges</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
