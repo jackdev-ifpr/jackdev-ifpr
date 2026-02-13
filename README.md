@@ -5,7 +5,7 @@
       <p>Welcome to my GitHub!</p>
     </td>
     <td width="25%" align="right">
-      <img width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true" style="border-radius: 50%;" />
+      <img width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
