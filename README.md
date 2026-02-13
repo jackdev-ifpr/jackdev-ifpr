@@ -10,7 +10,7 @@
 ### Knowledges
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="60"/>
 </div>
 
 <p align="center">
