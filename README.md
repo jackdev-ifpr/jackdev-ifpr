@@ -9,8 +9,8 @@
 
 ### Knowledges
 
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=lua,python,js,cpp,c#,mongo,figma" />
 </div>
 
 <p align="center">
