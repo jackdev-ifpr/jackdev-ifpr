@@ -10,9 +10,12 @@
 ### Knowledges
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
   <img src="https://skillicons.dev/icons?i=lua" height="60"/>
   <img src="https://skillicons.dev/icons?i=js" height="60"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+  <img src="https://skillicons.dev/icons?i=c" height="60"/>
+  <img src="https://skillicons.dev/icons?i=csharp" height="60"/>
 </div>
 
 <p align="center">
