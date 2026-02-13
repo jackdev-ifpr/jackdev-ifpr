@@ -1,11 +1,11 @@
-<div align="center">
+<div>
   <img align="right" width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true" style="border-radius: 50%;" />
   
   <h2 align="left">I'm Jack, 👋!</h2>
   <p align="left">Welcome to my GitHub!</p>
 </div>
 
-<br/>
+<br clear="all">
 
 ### Knowledges
 
