@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua" height="60"/>
   <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img src="https://skillicons.dev/icons?i=cplusplus" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
 </div>
 
 <p align="center">
