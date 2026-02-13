@@ -1,11 +1,14 @@
-<div>
-  <img align="right" width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true" style="border-radius: 50%;" />
-  
-  <h2 align="left">I'm Jack, 👋!</h2>
-  <p align="left">Welcome to my GitHub!</p>
-</div>
-
-<br clear="all">
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>I'm Jack, 👋!</h1>
+      <p>Welcome to my GitHub!</p>
+    </td>
+    <td width="25%" align="right">
+      <img width="150" height="150" src="https://github.com/jackdev-ifpr/jackdev-ifpr/blob/main/gatito.jpg?raw=true" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ### Knowledges
 
