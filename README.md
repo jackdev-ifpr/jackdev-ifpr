@@ -10,7 +10,7 @@
 ### Knowledges
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=lua,python,js,cpp,c,mongo,figma" />
+   <img src="https://skillicons.dev/icons?i=lua,python,js,cpp,cs,mongodb,figma,nodejs,npm" />
 </div>
 
 <p align="center">
