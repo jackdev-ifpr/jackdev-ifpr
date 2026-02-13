@@ -7,7 +7,7 @@
 
 <br/>
 
-### 🛠️ Knowledges
+### Knowledges
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
@@ -22,8 +22,6 @@
   <img width="10" />
   <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  /></a>
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jackdev-ifpr/jackdev-ifpr/refs/heads/main/snake.svg" alt="Snake animation" width="100%" />
