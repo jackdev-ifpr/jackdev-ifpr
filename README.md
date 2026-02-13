@@ -28,5 +28,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jackdev-ifpr/jackdev-ifpr/refs/heads/main/snake.svg" alt="Snake animation" width="100%" />
 </p>
-
----
