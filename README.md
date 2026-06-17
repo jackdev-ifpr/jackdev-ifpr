@@ -4,7 +4,7 @@
 ### Knowledges
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=lua,python,js,cpp,cs,mongodb,figma,nodejs,npm,java,swing,mysql" />
+   <img src="https://skillicons.dev/icons?i=lua,python,js,cpp,cs,mongodb,figma,nodejs,npm,java,mysql,c" />
 </div>
 
 <p align="center">
